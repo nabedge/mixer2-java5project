@@ -64,14 +64,9 @@
             <version>1.1.1</version>
         </dependency>
         <dependency>
-            <groupId>stax</groupId>
-            <artifactId>stax-api</artifactId>
-            <version>1.0.1</version>
-        </dependency>
-        <dependency>
-            <groupId>stax</groupId>
-            <artifactId>stax</artifactId>
-            <version>1.2.0</version>
+            <groupId>com.sun.xml.stream</groupId>
+            <artifactId>sjsxp</artifactId>
+            <version>1.0.2</version>
         </dependency>
         <dependency>
             <groupId>org.jvnet.jaxb2_commons</groupId>
