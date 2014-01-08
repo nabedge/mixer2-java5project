@@ -12,7 +12,7 @@ import org.mixer2.Mixer2Engine;
 import org.mixer2.jaxb.xhtml.Html;
 import org.mixer2.jaxb.xhtml.P;
 
-@Ignore("for sample")
+//@Ignore("for sample")
 public class HelloWorldTest {
 
     private String templateFileName = "HelloWorld_html5.html";
